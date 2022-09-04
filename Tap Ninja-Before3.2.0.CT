@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"琥珀数量"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1B6D7448020</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"钥匙数量"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1B6D7448024</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"星星数量"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1B6D744802C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"任务完成数"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BF6C40A50C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
